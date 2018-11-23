@@ -16,6 +16,7 @@ The following python libraries are used in other to aid in the data cleaning and
 * numpy
 * pandas
 * matplotlib
+* scikit-learn
 
 To run this notebook locally, make sure you have Python 3 with the previously mentioned libraries installed, as well as Jupyter.
 Navigate to the directory where the notebook file is, open a command prompt and type "jupyter notebook".
