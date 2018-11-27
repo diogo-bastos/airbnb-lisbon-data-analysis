@@ -34,6 +34,8 @@ The response is yes! Super hosts do have more positive reviews on average than r
 
 By looking at the feature importance graph above, is it safe to say that super hosts do have the highest review scores. Price, the number of amenities and availability seem to the following most important factors. It is interesting to notice that the cleaning fee and whether extra people are allowed or not seems to have an impact as well.
 
+## Package Dependencies
+
 The following python libraries are used in other to aid in the data cleaning and analysis:
 
 * numpy
@@ -44,6 +46,10 @@ The following python libraries are used in other to aid in the data cleaning and
 To run this notebook locally, make sure you have Python 3 with the previously mentioned libraries installed, as well as Jupyter.
 Navigate to the directory where the notebook file is, open a command prompt and type "jupyter notebook".
 
+## Files in the repository
+
+* **listings.csv** - public AirBnb data taken from the following source: http://insideairbnb.com/get-the-data.html.
+* **Airbnb-Lisbon-Data-Analysis.ipynb** - a jupyter notebook which analyses the data in listings.csv.
 
 
 
