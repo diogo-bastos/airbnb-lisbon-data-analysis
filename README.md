@@ -32,7 +32,7 @@ The response is yes! Super hosts do have more positive reviews on average than r
 
 ## What are the factors that contribute the most to more positive reviews?
 
-By looking at the feature importance graph above, is it safe to say that super hosts do have the highest review scores. Price, the number of amenities and availability seem to the following most important factors. It is interesting to notice that the cleaning fee and whether extra people are allowed or not seems to have an impact as well.
+It is safe to say that super hosts do have the highest review scores. Price, the number of amenities and availability seem to the following most important factors. It is interesting to notice that the cleaning fee and whether extra people are allowed or not seems to have an impact as well.
 
 ## Package Dependencies
 
