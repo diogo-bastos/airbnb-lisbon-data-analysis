@@ -3,6 +3,10 @@
 The purpose of this repository is to analyze public data from the listings of the company AirBnb, in the city of Lisbon. 
 The data was obtained from this page: http://insideairbnb.com/get-the-data.html.
 
+## Motivation
+
+This repository attempts to aid potential AirBnb hosts for Lisbon to decide on which neighbourhood would be the best to invest in. To acheive this, an analysis on the number of listings, price and review score rating per neighbourhood is provided in a jupyter notebook format. A comparison is made between super host review rating score and regular host review rating score. Furthermore, we will try to determine which factors contribute the most to review score ratings, so that AirBnb hosts know what they should improve in order to please their guests.
+
 The analysis attempts to answer the following questions:
 
 ## Which neighbourhoods have the most listings, which are more expensive and which have the most positive reviews?
